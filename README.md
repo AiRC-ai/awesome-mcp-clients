@@ -281,8 +281,8 @@ AIaW is a cross-platform, full-featured and lightweight AI Chat client with full
 ### AiRC Orchestration
 
 <table>
-<tr><th align="left">GitHub</th><td>https://github.com/AiRC-ai/AiRC-Orchestration</td></tr>
-<tr><th align="left">Website</th><td>https://airc.ai/</td></tr>
+<tr><th align="left">GitHub</th><td><a href="https://github.com/AiRC-ai/AiRC-Orchestration">AiRC Orchestration</a></td></tr>
+<tr><th align="left">Website</th><td><a href="https://airc.ai/">AiRC.ai</a></td></tr>
 <tr><th align="left">License</th><td><a href="https://github.com/AiRC-ai/AiRC-Orchestration/blob/main/LICENSE">Proprietary</a></td></tr>
 <tr><th align="left">Type</th><td>Desktop app</td></tr>
 <tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
@@ -290,7 +290,7 @@ AIaW is a cross-platform, full-featured and lightweight AI Chat client with full
 <tr><th align="left">Programming Languages</th><td>Rust, TypeScript</td></tr>
 </table>
 
-AiRC Orchestration is a desktop AI agent orchestrator and MCP client for coding, research, and automation. A primary agent delegates work to configurable model teams, follows their tool activity, and combines their results within persistent projects, goals, and plans.
+[AiRC Orchestration](https://github.com/AiRC-ai/AiRC-Orchestration) is a desktop AI agent orchestrator and MCP client for coding, research, and automation. A primary agent delegates work to configurable model teams, follows their tool activity, and combines their results within persistent projects, goals, and plans.
 
 Key features:
 
